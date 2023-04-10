@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,200;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #202020;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+button {
+    background-color: #e08594;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 4px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 5px;
+    transition: background-color 0.4s ease-in-out;
+    height: 30px;
+}
+
+button:hover {
+    background-color: #c77690;
+}
+
+form {
+    padding: 0 10px;
+}
+
+input {
+    width: 15rem;
+    border: 2px solid transparent;
+    color: #222;
+    padding: 4px 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    transition: border-color 0.4s ease-in-out;
+    height: 30px;
+    display: block;
+    outline: none;
+}
+
+input:focus {
+    border-color: #c77690;
+
+}

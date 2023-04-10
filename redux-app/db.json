@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Картофельная запеканка с курицей",
+      "image": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ирландское рагу",
+      "image": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Баранина с помидорами и сладкими специями",
+      "image": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ригатони с соусом из колбасы с фенхелем",
+      "image": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Пирог \"Бейквелл\"",
+      "image": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg"
+    },
+    {
+      "name": "Cream Cheese Tart",
+      "image": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+      "id": 7
+    }
+  ]
+}
